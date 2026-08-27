@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cbt_01",
+    "tags": ["anxiety", "overwhelmed", "racing_thoughts"],
+    "title": "5-4-3-2-1 Grounding",
+    "exercise": "Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This pulls attention back to the present moment."
+  },
+  {
+    "id": "cbt_02",
+    "tags": ["negative_thoughts", "self_criticism"],
+    "title": "Thought Record",
+    "exercise": "Write down the thought bothering you. Then ask: what's the evidence for it? What's the evidence against it? Is there a more balanced way to see this situation?"
+  },
+  {
+    "id": "cbt_03",
+    "tags": ["low_mood", "sad", "unmotivated"],
+    "title": "Behavioral Activation",
+    "exercise": "Pick one small, achievable activity you used to enjoy (even a 5-minute version of it) and schedule it for today. Mood often follows action, not the other way around."
+  },
+  {
+    "id": "cbt_04",
+    "tags": ["anger", "frustration"],
+    "title": "STOP Technique",
+    "exercise": "Stop. Take a breath. Observe what you're feeling and thinking. Proceed with a choice rather than a reaction."
+  },
+  {
+    "id": "cbt_05",
+    "tags": ["anxiety", "worry", "future"],
+    "title": "Worry Time",
+    "exercise": "Set aside a specific 10-minute window later today to fully worry about this. When the worry comes up now, note it down and tell yourself you'll address it in your worry window."
+  },
+  {
+    "id": "cbt_06",
+    "tags": ["stress", "overwhelmed"],
+    "title": "Box Breathing",
+    "exercise": "Breathe in for 4 counts, hold for 4, breathe out for 4, hold for 4. Repeat 4 times. This activates your body's relaxation response."
+  },
+  {
+    "id": "cbt_07",
+    "tags": ["low_mood", "hopeless_mild"],
+    "title": "Values Check-In",
+    "exercise": "Write down one value that matters to you (connection, growth, honesty, etc.) and one small action today that would align with it, however small."
+  },
+  {
+    "id": "cbt_08",
+    "tags": ["negative_thoughts", "comparison"],
+    "title": "Reframe Exercise",
+    "exercise": "Take the critical thought you're having about yourself. Now write down what you'd say to a close friend who told you they felt this way about themselves."
+  }
+]

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/app.db
+data/risk_classifier.joblib
+data/crisis_events.log
+.env
+venv/
