@@ -10,7 +10,7 @@ A safety-first mental health support tool: mood check-ins, journaling with senti
 
 
 
-![Chat interface showing a supportive response](screenshots/chat_demo.png.jp)
+![Chat interface showing a supportive response](screenshots/chat_demo.png.jpeg)
 
 
 
