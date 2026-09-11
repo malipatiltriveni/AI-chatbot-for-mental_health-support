@@ -10,11 +10,11 @@ A safety-first mental health support tool: mood check-ins, journaling with senti
 
 
 
-![Chat interface showing a supportive response](screenshots/chat_demo.png)
+![Chat interface showing a supportive response](screenshots/chat_demo.png.jp)
 
 
 
-*(Add more screenshots here — crisis path, mood trends, CBT suggestions)*
+
 
 ## Why this project
 
@@ -63,7 +63,7 @@ python risk_classifier.py
 
 Get a free Gemini API key at https://aistudio.google.com/apikey, then set it (PowerShell):
 
-$env:GEMINI_API_KEY="your-key-here"
+$env:GEMINI_API_KEY=""
 
 Run the app:
 
@@ -97,4 +97,4 @@ To improve it: merge in a real dataset (e.g. Kaggle's "Suicide and Depression De
 
 ## Author
 
-Built by Your Name as a portfolio project exploring safety-first design in AI-assisted mental health tools.
+Triveni malipatil
